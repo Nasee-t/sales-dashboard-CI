@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1778593111316" clover="3.2.0">
+  <project timestamp="1778593111316" name="All files">
+    <metrics statements="64" coveredstatements="62" conditionals="16" coveredconditionals="11" methods="29" coveredmethods="29" elements="109" coveredelements="102" complexity="0" loc="64" ncloc="64" packages="5" files="11" classes="11"/>
+    <package name="components.charts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="LeadPieChart.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\charts\LeadPieChart.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+      <file name="RevenueChart.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\charts\RevenueChart.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.pipeline">
+      <metrics statements="20" coveredstatements="19" conditionals="10" coveredconditionals="6" methods="9" coveredmethods="9"/>
+      <file name="Board.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\pipeline\Board.jsx">
+        <metrics statements="14" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="6" coveredmethods="6"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+      </file>
+      <file name="Column.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\pipeline\Column.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="5" count="12" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+      <file name="LeadCard.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\pipeline\LeadCard.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ui">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Spinner.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\components\ui\Spinner.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.leads">
+      <metrics statements="33" coveredstatements="32" conditionals="4" coveredconditionals="3" methods="13" coveredmethods="13"/>
+      <file name="LeadsContext.js" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\features\leads\LeadsContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="LeadsProvider.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\features\leads\LeadsProvider.jsx">
+        <metrics statements="18" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="6"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="47" count="7" type="stmt"/>
+      </file>
+      <file name="leads.utils.js" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\features\leads\leads.utils.js">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+      </file>
+      <file name="useLeads.js" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\features\leads\useLeads.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="Dashboard.jsx" path="C:\Users\naseeha.t\Documents\Tasks\8-task-sales-dashboard\frontend\src\pages\Dashboard.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
