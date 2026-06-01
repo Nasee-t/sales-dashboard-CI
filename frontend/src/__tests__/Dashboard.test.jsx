@@ -26,6 +26,6 @@ describe("Dashboard", () => {
 
     render(<Dashboard />);
 
-    expect(screen.getByText("Break test")).toBeInTheDocument();
+    expect(screen.getByText("Break this test")).toBeInTheDocument();
   });
 });
