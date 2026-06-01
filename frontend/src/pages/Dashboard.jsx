@@ -23,6 +23,7 @@ function Dashboard() {
 
   return (
     <div className="min-h-screen p-6">
+      {/* header */}
       <h1 className="text-3xl font-bold mb-6">Sales Command Center</h1>
 
       {/* Charts Section */}
